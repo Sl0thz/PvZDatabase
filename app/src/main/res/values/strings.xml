@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Almanac</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="cost">Cost</string>
+    <string name="recharge">Recharge</string>
+    <string name="damage">Damage</string>
+    <string name="toughness">Toughness</string>
+    <string name="range">Range</string>
+    <string name="no_data">no favorite plant found</string>
+    <string name="search">Search Plant</string>
+    <string name="my_name">Richard Leonardo</string>
+    <string name="my_email">richardleo155@gmail.com</string>
+</resources>
